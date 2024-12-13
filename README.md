@@ -16,7 +16,7 @@
 
 - 🌱 **Objetivos para 2025**:
   - Contribuir para projetos open-source.
-  - Aprender sobre [outras áreas de interesse].
+  - Aprender sobre DevOps.
 
 ## Contatos
 
